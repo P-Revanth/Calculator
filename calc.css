@@ -1,0 +1,41 @@
+.chead {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.ctable {
+    background-color: black;
+    border: 5px solid silver;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+tr,
+td,
+input {
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin: 3px;
+}
+input
+{
+    background-color: silver;
+    border: 2px solid white;
+
+}
+#display {
+    color: white;
+    border-radius: 5px;
+    width: 305px;
+    font-size: 30px;
+}
+
+.tablediv {
+    display: flex;
+    justify-content: center;
+}
